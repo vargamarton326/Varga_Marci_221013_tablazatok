@@ -1,0 +1,5 @@
+﻿<tr><th>hétfő</th><th>kedd</th><th>szerda</th><th>csütörtök</th><th>péntek</tr>
+        <tr><td> Angol</td>Biológia</td><td>Labor</td><td>Matek</td><td>Fizika</td></tr>
+        <tr><td> Angol</td>Tesi</td><td>Labor</td><td>Ének</td><td>Matek</td></tr>
+        <tr><td> Matek</td>Tesi</td><td>Labor</td><td>Tesi</td><td>Angol</td></tr>
+        <tr><td> Ének</td>Földrajz</td><td>Labor</td><td>Angol</td></tr>
